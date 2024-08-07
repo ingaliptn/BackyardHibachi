@@ -11,7 +11,7 @@
         public string Password { get; set; } = "Z326050r@";
         public string FromName { get; set; } = "Backyard Hibachi";
         public string FromEmail { get; set; } = "relay@serverpipe.org";
-        public string ToEmail { get; set; } = "nikitatkachuk6@gmail.com, hibachivegas247@gmail.com";
+        public string ToEmail { get; set; } = "hibachivegas247@gmail.com";
         public string? Subject { get; set; } = "Contact Us";
         public string? Body { get; set; }
     }
